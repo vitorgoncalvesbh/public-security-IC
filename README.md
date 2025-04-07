@@ -52,7 +52,7 @@ Adultos (30–59 anos)
 Idosos (60+ anos)
 Separando entre homens, mulheres e, se houver dados, outras identidades de gênero.
 
-#Dimensão dos dados:
+# Dimensão dos dados:
 
 **Social:**
 
@@ -96,3 +96,68 @@ Permite entender a resposta do Estado à violência.
 _Atributos associados: _
 Tempo de resposta policial, presença de policiamento preventivo, número de boletins registrados
 
+
+### Variáveis por Dimensão
+
+| Dimensão        | Variável                      | Tipo                   | Descrição                                                    |
+|------------------|-------------------------------|------------------------|--------------------------------------------------------------|
+| Demográfica      | Idade da vítima               | Quantitativa discreta  | Idade numérica da vítima                                     |
+|                  | Faixa etária                  | Qualitativa ordinal    | Classificação por grupo de idade                             |
+|                  | Gênero da vítima              | Qualitativa nominal    | Masculino, feminino, outro                                   |
+|                  | Escolaridade                  | Qualitativa ordinal    | Fundamental, médio, superior, etc.                           |
+|                  | Bairro de residência          | Qualitativa nominal    | Nome do bairro onde a vítima mora                            |
+| Criminal         | Tipo de crime                 | Qualitativa nominal    | Homicídio, roubo, estupro, etc.                              |
+|                  | Gravidade do crime            | Qualitativa ordinal    | Baixa, média, alta                                           |
+|                  | Uso de arma                   | Qualitativa nominal    | Fogo, branca, nenhuma                                        |
+|                  | Número de agressores          | Quantitativa discreta  | Total de agressores envolvidos                               |
+|                  | Relação com o agressor        | Qualitativa nominal    | Familiar, parceiro, desconhecido, etc.                       |
+| Espacial         | Local do crime                | Qualitativa nominal    | Rua, escola, transporte, etc.                                |
+|                  | Bairro do crime               | Qualitativa nominal    | Nome do bairro onde ocorreu o crime                          |
+|                  | Zona da cidade                | Qualitativa nominal    | Central, intermediária, periférica                           |
+| Temporal         | Data do crime                 | Quantitativa contínua  | Data exata da ocorrência                                     |
+|                  | Hora do crime                 | Quantitativa contínua  | Horário da ocorrência                                        |
+|                  | Dia da semana                 | Qualitativa nominal    | Segunda, terça, etc.                                         |
+|                  | Mês do crime                  | Qualitativa ordinal    | Janeiro, fevereiro, etc.                                     |
+| Social           | Estava sozinha(o)?            | Qualitativa binária    | Sim ou não                                                   |
+|                  | Situação de vulnerabilidade   | Qualitativa nominal    | Em deslocamento, alcoolizada(o), etc.                        |
+|                  | Reincidência de vitimização   | Qualitativa binária    | Já foi vítima antes: sim ou não                              |
+| Institucional    | Tempo de resposta policial    | Quantitativa contínua  | Tempo em minutos entre o chamado e o atendimento             |
+|                  | Houve registro da ocorrência? | Qualitativa binária    | Sim ou não                                                   |
+
+
+# Literatura/Artigos Científicos:
+
+**Nas dimensões sociais, demográficas, espaciais, criminais, temporais e institucionais:
+**
+
+**Estrutura social e dinâmica da violência:**
+
+https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt
+
+
+**Segurança pública, criminalidade, violência e (re)produção do espaço urbano**
+https://www.researchgate.net/publication/343894197_SEGURANCA_PUBLICA_CRIMINALIDADE_VIOLENCIA_E_REPRODUCAO_DO_ESPACO_URBANO_UMA_BREVE_DISCUSSAO_SOBRE_SUA_RELACAO
+
+
+**Estatísticas oficiais, violência e crime no Brasil**
+
+[Estatísticas+oficiais,+violência+e+crime+no+Brasil+(1).pdf](https://github.com/user-attachments/files/19638313/Estatisticas%2Boficiais.%2Bviolencia%2Be%2Bcrime%2Bno%2BBrasil%2B.1.pdf)
+
+
+**Políticas públicas no combate à criminalidade e a violência - Ipea**
+
+https://www.ipea.gov.br/sites/images/mestrado/turma4/RICARDO_WANNER_DE_GODOY.pdf
+
+
+**Determinantes da criminalidade: arcabouços teóricos e resultados**
+
+https://www.redalyc.org/pdf/218/21847202.pdf
+
+
+**Análise demográfica das vítimas de violência**
+
+https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt
+
+
+**Determinantes da criminalidade e suas características**
+https://www.redalyc.org/pdf/218/21847202.pdf
