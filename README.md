@@ -125,6 +125,11 @@ Tempo de resposta policial, presença de policiamento preventivo, número de bol
 |                  | Houve registro da ocorrência? | Qualitativa binária    | Sim ou não                                                   |
 
 
+# Modelo Conceitual
+
+![Modelo Conceitual Seguranca drawio](https://github.com/user-attachments/assets/dc8dbaf8-e232-4fb4-a7de-d28a2788df84)
+
+
 # Literatura/Artigos Científicos:
 
 **Nas dimensões sociais, demográficas, espaciais, criminais, temporais e institucionais:
