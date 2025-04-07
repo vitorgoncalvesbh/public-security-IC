@@ -55,36 +55,42 @@ Separando entre homens, mulheres e, se houver dados, outras identidades de gêne
 #Dimensão dos dados:
 
 **Social:**
+
 _Descrição:_
 Foca na relação entre vítima e agressor e o impacto social do crime.
 _Atributos associados: _
 Relação entre os envolvidos, condição no momento do crime, situação de vulnerabilidade
 
 **Demográfica:**
+
 _Descrição:_
 Foca nos perfis das vítimas e suas características individuais.
 _Atributos associados: _
 Idade, gênero, escolaridade, condição socioeconômica
 
 **Espacial:**
+
 _Descrição:_
 Analisa o local onde os crimes ocorrem e suas características.
 _Atributos associados: _
 Bairro, rua, zona (central, periférica), reincidência no local
 
 **Criminal:**
+
 _Descrição:_
 Observa o tipo de crime, gravidade e contexto.
 _Atributos associados: _
 Classificação do crime, uso de arma, número de envolvidos, vínculo com o agressor
 
 **Temporal:**
+
 _Descrição:_
 Avalia os padrões ao longo do tempo.
 _Atributos associados: _
 Data, hora, dia da semana, período do ano
 
 **Institucional:**
+
 _Descrição:_
 Permite entender a resposta do Estado à violência.
 _Atributos associados: _
