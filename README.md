@@ -129,6 +129,33 @@ Tempo de resposta policial, presença de policiamento preventivo, número de bol
 
 ![Modelo Conceitual Seguranca drawio](https://github.com/user-attachments/assets/dc8dbaf8-e232-4fb4-a7de-d28a2788df84)
 
+# Etapas CAPTO
+## Etapa 1 - Socialização
+
+## Etapa 2 - Mapeamento
+### Grupo 1: 
+ ##### Integrantes
+ Vitor, ...
+ ##### Modelo Conceitual:
+ ``image.png``
+
+### Grupo 2:
+ #### Integrantes
+ ..., ...
+ #### Modelo Conceitual:
+ ``image.png``
+
+## Etapa 3 - Combinação
+### Mapa Conceitual Unificado
+``image.png``
+
+## Etapa 4 - Focalização
+Indicar os atributos
+
+## Etapa 5 - Congruência
+Harmonização com a disponibilidade dos dados
+
+
 
 # Literatura/Artigos Científicos:
 
