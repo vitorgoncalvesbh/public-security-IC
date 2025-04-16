@@ -164,7 +164,7 @@ Harmonização com a disponibilidade dos dados
 
 **Estrutura social e dinâmica da violência:**
 
-https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt
+https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt (Lido)
 
 
 **Segurança pública, criminalidade, violência e (re)produção do espaço urbano**
@@ -191,5 +191,5 @@ https://www.redalyc.org/pdf/218/21847202.pdf
 https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt
 
 
-**Determinantes da criminalidade e suas características**
+**Determinantes da criminalidade e suas características** ( Lido)
 https://www.redalyc.org/pdf/218/21847202.pdf
