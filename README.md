@@ -6,7 +6,7 @@ Trabalho Destinado ao Grupo de Pesquisa de Ciência de Dados e Inteligência Art
 
 **Tema geral:** Segurança Pública
 
-**Domínio:** Violência e criminalidade no município X, com foco na análise da distribuição de ocorrências por idade e gênero das vítimas.
+**Domínio:** Caracterização da violência e da criminalidade no município X
 
 **Justificativa:**
 A violência e a criminalidade são fenômenos complexos e desafiadores no contexto urbano brasileiro, afetando diretamente a qualidade de vida da população e a eficácia das políticas públicas. No entanto, a maioria dos estudos e intervenções ainda trata esses problemas de forma agregada, sem considerar nuances importantes como a idade e o gênero das vítimas.
