@@ -193,3 +193,43 @@ https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt
 
 **Determinantes da criminalidade e suas características** ( Lido)
 https://www.redalyc.org/pdf/218/21847202.pdf
+
+
+**FATORES FISCAIS E SOCIOECONÔMICOS QUE AFETAM A CRIMINALIDADE NO BRASIL**
+https://www.scielo.br/j/cgpc/a/rhTv7DbF6qw8ndHZYYYFJ3K/?lang=pt
+
+
+**Crime, sujeito e sujeição criminal: aspectos de uma contribuição analítica sobre a categoria "bandido"**
+https://www.scielo.br/j/ln/a/sv7ZDmyGK9RymzJ47rD5jCx/?lang=pt
+
+
+**O novo paradigma da violência**
+https://www.scielo.br/j/ts/a/S4WmjGyW3Bqxd7Y6GYcPVhN/?lang=pt
+
+
+**A Política Nacional de Segurança Pública: histórico, dilemas e perspectivas**
+https://www.scielo.br/j/ea/a/HfX5ZwsFKW6wtzrMTTrhYwz/?lang=pt
+
+
+**Concepções de violência e práticas de cuidado dos usuários da estratégia de saúde da família: uma perspectiva cultural**
+https://www.scielo.br/j/tce/a/CYyQCNLcP5rQZJZVjg6zsXC/?lang=pt
+
+
+**O conceito de Crime e Criminalidade para agentes de segurança da cidade de Curitiba**
+https://seer.ufrgs.br/PolisePsique/article/view/23221
+
+
+**Violência, Criminalidade e Sentimento de Insegurança**
+https://agris.fao.org/search/en/providers/125162/records/67659e76829d7ef70f4916ed
+
+
+**Determinantes da criminalidade em Minas Gerais**
+https://www.scielo.br/j/rbcsoc/a/C7B6xjjfzkDBVbYkKnKgPYQ/#
+
+
+**Os impactos da implementação do Big Data para a análise da criminalidade e definição de políticas públicas**
+https://dspace.mackenzie.br/items/7b9324a7-703f-45de-92f6-ec1e6bede7b3
+
+
+**Criminalidade Violenta: Da Sua Medição às Políticas Públicas de Segurança Interna**
+https://www.proquest.com/openview/078f95e187d7e200f903f2e7c2d46c9e/1?cbl=2026366&diss=y&pq-origsite=gscholar
