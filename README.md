@@ -159,12 +159,9 @@ Harmonização com a disponibilidade dos dados
 
 # Literatura/Artigos Científicos:
 
-**Nas dimensões sociais, demográficas, espaciais, criminais, temporais e institucionais:
-**
+**Estrutura social e dinâmica da violência:** (Lido)
 
-**Estrutura social e dinâmica da violência:**
-
-https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt (Lido)
+https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt 
 
 
 **Segurança pública, criminalidade, violência e (re)produção do espaço urbano**
@@ -191,7 +188,7 @@ https://www.redalyc.org/pdf/218/21847202.pdf
 https://www.scielo.br/j/rbepop/a/mbcYGX6j9j4xGc98xBYFnqP/?format=pdf&lang=pt
 
 
-**Determinantes da criminalidade e suas características** ( Lido)
+**Determinantes da criminalidade e suas características** (Lido)
 https://www.redalyc.org/pdf/218/21847202.pdf
 
 
@@ -233,3 +230,70 @@ https://dspace.mackenzie.br/items/7b9324a7-703f-45de-92f6-ec1e6bede7b3
 
 **Criminalidade Violenta: Da Sua Medição às Políticas Públicas de Segurança Interna**
 https://www.proquest.com/openview/078f95e187d7e200f903f2e7c2d46c9e/1?cbl=2026366&diss=y&pq-origsite=gscholar
+
+
+**Considerações sobre criminalidade: marginalização, medo e mitos no Brasil**
+
+https://revista.forumseguranca.org.br/index.php/rbsp/article/view/85
+
+
+**Avanços na democracia brasileira: a participação da sociedade civil na Conferência Nacional de Segurança Pública**
+
+https://revista.forumseguranca.org.br/index.php/rbsp/article/view/55
+
+
+**LEVANTAMENTO E ESPACIALIZAÇÃO DA CRIMINALIDADE URBANA DO MUNICÍPIO DE MOSSORÓ-RN**
+
+https://www2.ifrn.edu.br/ojs/index.php/HOLOS/article/view/4187
+
+
+**Crime social, castigo social: desigualdade de renda e taxas de criminalidade nos grandes municípios brasileiros**
+
+https://www.scielo.br/j/ee/a/Wz4bLz5z3mFQWY6JhKcmhjz/?lang=pt
+
+
+**Análise espacial dos condicionantes da criminalidade violenta no estado de Minas Gerais**
+
+https://www.scielo.br/j/sn/a/3KT8G8mKStv5xg3bfv4xxbD/?lang=pt
+
+
+**Criminalidade violenta: por uma nova perspectiva de análise**
+
+https://www.scielo.br/j/rsocp/a/6W7KgY6yLBSJxtrrV7BycCs/?lang=pt
+
+
+**Formas de pensar a sociedade**
+
+https://dialnet.unirioja.es/servlet/articulo?codigo=4766705
+
+
+**Conceitos, teorias e tipologias de violência: a violência faz mal à saúde individual e coletiva**
+
+https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1025139
+
+
+**Refletindo sobre a violência**
+
+https://periodicos.furg.br/rbhcs/article/view/10353
+
+
+**Reflexões sobre a violência na condição moderna**
+
+https://www.scielo.br/j/ts/a/BM4wVbK9Fn7sPYzKTWCC6fr/?lang=pt
+
+
+**Violência vivida: a dor que não tem nome**
+
+https://www.scielosp.org/pdf/icse/2003.v7n12/41-54/pt
+
+
+**INTERAÇÕES ENTRE VIOLÊNCIA E CIDADES: EM BUSCA DE UMA DEFINIÇÃO DE VIOLÊNCIA URBANA**
+
+https://revista.fct.unesp.br/index.php/cpg/article/view/3289
+
+
+**Segurança e insegurança em Salvador: O que revelam os indicadores de segurança pública?**
+
+https://www.scielo.pt/scielo.php?script=sci_arttext&pid=S2184-77702021000400079&lang=pt
+
+
