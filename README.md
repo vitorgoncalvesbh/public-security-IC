@@ -287,7 +287,7 @@ https://www.scielo.br/j/ts/a/BM4wVbK9Fn7sPYzKTWCC6fr/?lang=pt
 https://www.scielosp.org/pdf/icse/2003.v7n12/41-54/pt
 
 
-**INTERAÇÕES ENTRE VIOLÊNCIA E CIDADES: EM BUSCA DE UMA DEFINIÇÃO DE VIOLÊNCIA URBANA**
+**INTERAÇÕES ENTRE VIOLÊNCIA E CIDADES: EM BUSCA DE UMA DEFINIÇÃO DE VIOLÊNCIA URBANA** (Vitor está lendo)
 
 https://revista.fct.unesp.br/index.php/cpg/article/view/3289
 
