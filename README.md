@@ -232,7 +232,7 @@ https://dspace.mackenzie.br/items/7b9324a7-703f-45de-92f6-ec1e6bede7b3
 https://www.proquest.com/openview/078f95e187d7e200f903f2e7c2d46c9e/1?cbl=2026366&diss=y&pq-origsite=gscholar
 
 
-**Considerações sobre criminalidade: marginalização, medo e mitos no Brasil**
+**Considerações sobre criminalidade: marginalização, medo e mitos no Brasil** (Leo está lendo)
 
 https://revista.forumseguranca.org.br/index.php/rbsp/article/view/85
 
