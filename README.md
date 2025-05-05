@@ -127,7 +127,7 @@ Tempo de resposta policial, presença de policiamento preventivo, número de bol
 
 # Modelo Conceitual
 
-![Modelo Conceitual Seguranca drawio](https://github.com/user-attachments/assets/dc8dbaf8-e232-4fb4-a7de-d28a2788df84)
+
 
 # Etapas CAPTO
 ## Etapa 1 - Socialização
@@ -277,7 +277,7 @@ https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1025139
 https://periodicos.furg.br/rbhcs/article/view/10353
 
 
-**Reflexões sobre a violência na condição moderna**
+**Reflexões sobre a violência na condição moderna**(Vitor esta lendo)
 
 https://www.scielo.br/j/ts/a/BM4wVbK9Fn7sPYzKTWCC6fr/?lang=pt
 
@@ -287,7 +287,7 @@ https://www.scielo.br/j/ts/a/BM4wVbK9Fn7sPYzKTWCC6fr/?lang=pt
 https://www.scielosp.org/pdf/icse/2003.v7n12/41-54/pt
 
 
-**INTERAÇÕES ENTRE VIOLÊNCIA E CIDADES: EM BUSCA DE UMA DEFINIÇÃO DE VIOLÊNCIA URBANA** (Vitor está lendo)
+**INTERAÇÕES ENTRE VIOLÊNCIA E CIDADES: EM BUSCA DE UMA DEFINIÇÃO DE VIOLÊNCIA URBANA** (Lido)
 
 https://revista.fct.unesp.br/index.php/cpg/article/view/3289
 
