@@ -247,7 +247,7 @@ https://revista.forumseguranca.org.br/index.php/rbsp/article/view/55
 https://www2.ifrn.edu.br/ojs/index.php/HOLOS/article/view/4187
 
 
-**Crime social, castigo social: desigualdade de renda e taxas de criminalidade nos grandes municípios brasileiros**
+**Crime social, castigo social: desigualdade de renda e taxas de criminalidade nos grandes municípios brasileiros** (LEO ESTÁ LENDO)
 
 https://www.scielo.br/j/ee/a/Wz4bLz5z3mFQWY6JhKcmhjz/?lang=pt
 
