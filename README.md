@@ -135,13 +135,13 @@ Tempo de resposta policial, presença de policiamento preventivo, número de bol
 ## Etapa 2 - Mapeamento
 ### Grupo 1: 
  ##### Integrantes
- Vitor, ...
+ Vitor, Leonardo
  ##### Modelo Conceitual:
  ``image.png``
 
 ### Grupo 2:
  #### Integrantes
- ..., ...
+ Augusto, Walker
  #### Modelo Conceitual:
  ``image.png``
 
